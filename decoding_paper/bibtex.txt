@@ -1,0 +1,9 @@
+@ARTICLE{9662665,
+  author={Niu, Yi and Liu, Chang and Ma, Mingming and Li, Fu and Chen, Zhiwen and Shi, Guangming},
+  journal={IEEE Transactions on Image Processing}, 
+  title={NL-CALIC Soft Decoding Using Strict Constrained Wide-Activated Recurrent Residual Network}, 
+  year={2022},
+  volume={31},
+  number={},
+  pages={1243-1257},
+  doi={10.1109/TIP.2021.3136608}}

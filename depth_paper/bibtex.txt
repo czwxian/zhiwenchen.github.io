@@ -1,9 +1,9 @@
-@ARTICLE{9432856,
-  author={Liu, Chang and Tian, Yunjie and Chen, Zhiwen and Jiao, Jianbin and Ye, Qixiang},
+@ARTICLE{9642435,
+  author={Zhong, Zhiwei and Liu, Xianming and Jiang, Junjun and Zhao, Debin and Chen, Zhiwen and Ji, Xiangyang},
   journal={IEEE Transactions on Image Processing}, 
-  title={Adaptive Linear Span Network for Object Skeleton Detection}, 
-  year={2021},
-  volume={30},
+  title={High-Resolution Depth Maps Imaging via Attention-Based Hierarchical Multi-Modal Fusion}, 
+  year={2022},
+  volume={31},
   number={},
-  pages={5096-5108},
-  doi={10.1109/TIP.2021.3078079}}
+  pages={648-663},
+  doi={10.1109/TIP.2021.3131041}}
